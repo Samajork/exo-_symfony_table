@@ -1,0 +1,12 @@
+body {
+    background-color: #5eb5e0;
+    border: 1px;
+}
+head {
+    background-color:lightsteelblue;
+    border: 1px;
+}
+footer {
+    background-color:slateblue;
+    border: 1px black;
+}
